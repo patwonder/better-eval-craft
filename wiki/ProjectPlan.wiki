@@ -10,13 +10,13 @@ Future development goals, including plans for new releases, are listed below.
 == Auxiliary programs ==
 
  * === Evaluation quality analysis ===
-   Analyzes the quality of the evaluation function. One of the project success criterias.
+   Analyzes the quality of the evaluation function. One of the project success criteria.
 
  * === Virtual tournaments ===
-   Plays virtual tournaments between different versions of craft engine and other strong AIs, another project success criteria.
+   Plays virtual tournaments between different versions of craft engine and other strong AIs, another project success criterion.
 
  * === UCI-compliant Engine and Board===
-   Here we must do some modifications to UCI since UCI is for Chess, not Othello. Let's call it UOI. Most part of the UCI can be directly transformed into UOI, with a few exceptions and some extentions.
+   Here we must do some modifications to UCI since UCI is for Chess, not Othello. Let's call it UOI. Most part of the UCI can be directly transformed into UOI, with a few exceptions and some extensions.
 
 == Main work ==
 

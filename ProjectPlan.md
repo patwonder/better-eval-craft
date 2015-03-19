@@ -1,0 +1,32 @@
+## Introduction ##
+
+Craft's evaluation data (data.craft) hasn't been updated for 3 years, and Craft seems to suffer most from evaluation inaccuracy. This project aims to provide better evaluation data for Craft.
+
+Future development goals, including plans for new releases, are listed below.
+
+## Auxiliary programs ##
+
+  * ### Evaluation quality analysis ###
+> > Analyzes the quality of the evaluation function. One of the project success criteria.
+
+  * ### Virtual tournaments ###
+> > Plays virtual tournaments between different versions of craft engine and other strong AIs, another project success criterion.
+
+  * ### UCI-compliant Engine and Board ###
+> > Here we must do some modifications to UCI since UCI is for Chess, not Othello. Let's call it UOI. Most part of the UCI can be directly transformed into UOI, with a few exceptions and some extensions.
+
+## Main work ##
+
+  * ### Random game generator and evaluator ###
+> > This is supposed to be the most time-consuming(and also power consuming) work. We aim to generate 10 million to 100 million games, according to the generator's speed and available computer resources.
+
+  * ### Evaluation data generator ###
+> > Generates evaluation data using information from the random games.
+
+## Main project related ##
+
+  * ### Porting Craft to use VS2010, once and for all ###
+  * ### A lite craft version ###
+> > Name not determined yet. Simple & fluent UI with strong AI engine.
+
+Expect more stuff to come as the project goes on.
